@@ -4,5 +4,5 @@
 
 Graphical overlay for generating svg stars using dart
 
-#Sources
+## sources
 Matthias Dohlenburg <https://replit.com/@MatthiasDohlenb/Dart-Sterngenerator>
